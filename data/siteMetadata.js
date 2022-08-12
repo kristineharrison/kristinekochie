@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'A blog about changing course and finding tech.',
+  title: 'Changing Course & Finding Tech',
   author: 'Kristine Kochie',
   headerTitle: 'Kristine Kochie',
-  description: 'A blog about changing course and finding tech',
+  description: 'How one middle-aged cat lady learns to code. And loves it.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://kristinekochie.vercel.app',
