@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Kristine Kochie
+avatar: /static/images/about.jpg
+occupation: Creative who found Tech
+# company: Stanford University
+email: kristinekochie@gmail.com
+twitter: https://twitter.com/kristinekochie
+linkedin: https://www.linkedin.com/in/kristinekochie/
+github: https://github.com/kkochie
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I have spent the last twenty years in a variety of creative fields, all with the common thread of making things. This includes the start-up of a photo agency, working in the print industry, and even owning my own small business.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Now I am a middle-aged cat lady learning how to code.

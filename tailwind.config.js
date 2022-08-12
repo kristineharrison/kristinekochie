@@ -26,9 +26,10 @@ module.exports = {
       },
       fontFamily: {
         sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        serif: ['DM-Serif-Display', ...defaultTheme.fontFamily.serif],
       },
       colors: {
-        primary: colors.teal,
+        primary: colors.amber,
         gray: colors.neutral,
       },
       typography: (theme) => ({
