@@ -32,16 +32,16 @@ const Giscus = () => {
 
     const script = document.createElement('script')
     script.src = 'https://giscus.app/client.js'
-    script.setAttribute('data-repo', repo)
-    script.setAttribute('data-repo-id', repositoryId)
-    script.setAttribute('data-category', category)
-    script.setAttribute('data-category-id', categoryId)
-    script.setAttribute('data-mapping', mapping)
-    script.setAttribute('data-reactions-enabled', reactions)
-    script.setAttribute('data-emit-metadata', metadata)
-    script.setAttribute('data-input-position', inputPosition)
-    script.setAttribute('data-lang', lang)
-    script.setAttribute('data-theme', commentsTheme)
+    script.setAttribute('data-repo', 'kkochie/kristinekochie')
+    script.setAttribute('data-repo-id', 'R_kgDOHzHb2Q')
+    script.setAttribute('data-category', 'general')
+    script.setAttribute('data-category-id', 'DIC_kwDOHzHb2c4CQxUP')
+    script.setAttribute('data-mapping', 'pathname')
+    script.setAttribute('data-reactions-enabled', '0')
+    script.setAttribute('data-emit-metadata', '0')
+    script.setAttribute('data-input-position', 'top')
+    script.setAttribute('data-lang', 'en')
+    script.setAttribute('data-theme', 'light')
     script.setAttribute('crossorigin', 'anonymous')
     script.async = true
 
