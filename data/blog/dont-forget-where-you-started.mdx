@@ -1,0 +1,71 @@
+---
+title: Don't Forget Where You Started
+date: '2022-09-14'
+tags: []
+draft: false
+summary: HTML Best Practices
+images: []
+layout: PostLayout
+canonicalUrl:
+---
+
+Yes, I know, HTML is not very exciting. But there's a reason it's the first language you learn when heading down the developer path. Not only does it give you the fundamentals to build and maintain sites, it will also expand your understanding of web design principles and practices.
+
+I've put together a quick guide of HTML practices you should remember, but probably have to look up occasionally. It would be weird if you didn't.
+
+### How to Name Everything
+
+1. No spaces or special characters
+2. Hyphens, not underscores
+3. No camelCase or Pascal case in HTML and CSS
+4. Keep everything lowercase
+5. Keep names short - no more than 20 characters
+
+### Dos and Dont's
+
+- Always declare a DOCTYPE.
+
+- Don't use inline styles; leave the presentation style to CSS. Keep 'em separated.
+
+- Headings are not for styling! They are for SEO and accessibility.
+
+  - Use only one `<h1>` element
+  - Do not skip heading levels
+
+- Use the figure element to add captions to your images instead of `<p>` tags.
+
+- Use alt attributes with every image.
+
+- Use semantic elements instead of generic `<div>` tags.
+
+- Use `<strong>` and `<em>` instead of `<b>` and `<i>`.
+
+- Don't place block elements inside inline elements.
+
+- Comment, but don't go crazy. If you have to explain everything, you should probably make sure you are using the correct semantic elements and syntax.
+
+- Use that browser inspector. Don't forget you can edit your HTML and CSS live to see the results on the screen.
+
+### Work Neat
+
+Yes, you really need to correctly indent those nested elements. It makes it easier to read your code, and if you can read your code you can find the bugs. And makes it easy for other people to understand.
+
+Speaking of bugs, don't forget to use proper syntax. There is no leeway, HTML is not going to guess what you want and make it work. When something is not working, very good chance it's because you forget a semi-colon or misspelled a word.
+
+Keep an eye out for:
+
+- Not closing tags
+- Apostrophe instead of quotation mark
+- Misspellings
+- Invalid or non-existent elements, attributes, or properties
+- Using the wrong element name
+
+### Validate Validate Validate
+
+- [W3C Validator](https://validator.w3.org/)
+
+### When in Doubt...
+
+Stick to a tried and true style guide for best HTML practices:
+
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
