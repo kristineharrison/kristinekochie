@@ -1,0 +1,73 @@
+---
+title: Homebrew Club
+date: '2022-09-12'
+tags: []
+draft: false
+summary: Homebrew makes package management go down smooth.
+images: []
+layout: PostLayout
+canonicalUrl:
+---
+
+I learned right away in my new tech life that you take the shortcuts. Especially the tried and true ones that only MAKE LIFE EASIER. And particularly when it concerns installing, updating, upgrading, running, uninstalling, versioning...
+
+Enter [Homebrew](https://brew.sh/), a free and open-source software package management system that makes it super easy to install and maintain software on macOS, as well as Linux.
+
+To get started, you need the Command Line Tools for [Xcode](https://developer.apple.com/download/all/) and the Bourne-again shell for installation (i.e. bash). Once you have those, fire up the Terminal app since Homebrew is a CLI tool.
+
+To install, run in terminal:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+### Quick Terminology
+
+- Formula: Homebrew software package. Multiple versions of formula are kept in the Cellar, in case you need to switch.
+- Cask: Homebrew package definition that installs macOS native applications
+- Tap: directory (and most likely Git repository) of packages. Homebrew keeps the homebrew/core tap up-to-date so you can usually install from this source.
+- Cellar: local directory where your packages are installed e.g. /usr/local/Cellar
+
+### Using Homebrew
+
+Most of the time the package you want to install is in the default core tap. To be sure, you can search before blindly trying an install:
+
+```
+$ brew search <name>
+```
+
+When you have the name of the formula you want, install:
+
+```
+$ brew install <name>
+```
+
+### Keep the Taps Fresh!
+
+Homebrew keeps a list of formulae in a local cache. Be sure to routinely grab the latest versions, and definitely run a check before any new installations.
+
+```
+$ brew update
+```
+
+Now you have the latest versions and can run `brew upgrade` which will install them.
+
+```
+$ brew upgrade
+```
+
+And to run at the same time:
+
+```
+$ brew update && brew upgrade
+```
+
+### Don't Forget to Clean Up After Yourself
+
+Remove stale lock files and outdated downloads for all formulae and casks, and remove old versions of installed formulae. If arguments are specified, only do this for the given formulae and casks. Removes all downloads more than 120 days old.
+
+```
+$ cleanup [options] [formula|cask …]
+```
+
+Cheers! 🍻
