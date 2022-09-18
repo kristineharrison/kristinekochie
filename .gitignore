@@ -35,4 +35,7 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# examples files
 READMEcopy.md
+/data/blog/examples/
+/public/static/images/canada/
