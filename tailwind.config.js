@@ -26,7 +26,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
-        serif: ['DM-Serif-Display', ...defaultTheme.fontFamily.serif],
+        serif: ['IBM Plex Mono', ...defaultTheme.fontFamily.serif],
       },
       colors: {
         primary: colors.amber,

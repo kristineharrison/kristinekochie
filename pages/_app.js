@@ -4,6 +4,8 @@ import 'katex/dist/katex.css'
 
 import '@fontsource/inter/variable-full.css'
 import '@fontsource/dm-serif-display'
+import '@fontsource/ibm-plex-mono'
+import '@fontsource/iosevka'
 
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
