@@ -107,7 +107,7 @@ module.exports = {
             a: {
               color: theme('colors.primary.500'),
               '&:hover': {
-                color: `${theme('colors.primary.400')} !important`,
+                color: `${theme('colors.cyan.800')} !important`,
               },
               code: { color: theme('colors.primary.400') },
             },

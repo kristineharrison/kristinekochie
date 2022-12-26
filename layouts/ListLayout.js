@@ -56,18 +56,21 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                   <dl>
                     <dt className="sr-only">Published on</dt>
-                    <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                    <dd className="font-serif text-base leading-6 text-gray-500 dark:text-gray-400">
                       <time dateTime={date}>{formatDate(date)}</time>
                     </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">
                     <div>
                       <h3 className="font-serif text-3xl leading-8 tracking-tight">
-                        <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
+                        <Link
+                          href={`/blog/${slug}`}
+                          className="text-gray-900 hover:text-cyan-800 dark:text-gray-100"
+                        >
                           {title}
                         </Link>
                       </h3>
-                      <div className="flex flex-wrap">
+                      <div className="flex flex-wrap font-serif">
                         {tags.map((tag) => (
                           <Tag key={tag} text={tag} />
                         ))}
