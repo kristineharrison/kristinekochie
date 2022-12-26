@@ -14,10 +14,9 @@ export default function Projects() {
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {/* Showcase your projects with a hero image (16 x 9) */}
-            Work in progress
           </p>
         </div>
-        {/* <div className="container py-12">
+        <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {projectsData.map((d) => (
               <Card
@@ -29,7 +28,7 @@ export default function Projects() {
               />
             ))}
           </div>
-        </div> */}
+        </div>
       </div>
     </>
   )

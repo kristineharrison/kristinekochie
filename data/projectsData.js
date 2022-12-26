@@ -1,19 +1,27 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'WORKSPACE',
+    description: `Productivity app to help manage image assets related to design projects.`,
+    imgSrc: '/static/images/projects/previews/workspace-preview.jpg',
+    href: '/blog/workspace',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Cookbook Club',
+    description: `Site for a local group to showcase club meetings and book choices.`,
+    imgSrc: '/static/images/projects/previews/cookbook-club-preview.jpg',
+    href: '/blog/cookbook-club',
+  },
+  {
+    title: 'CSS Color Tool',
+    description: `Flatiron School Phase 1 Project.`,
+    imgSrc: '/static/images/projects/previews/.jpg',
+    href: '/blog/css-color-tool',
+  },
+  {
+    title: 'Grey Printing',
+    description: `E-commerce site and rebranding for Grey Printing.`,
+    imgSrc: '/static/images/projects/previews/grey-printing-preview.jpg',
+    href: '/blog/grey-printing',
   },
 ]
 
