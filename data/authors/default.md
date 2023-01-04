@@ -1,10 +1,8 @@
 ---
 name: Kristine Kochie
 avatar: /static/images/about.jpg
-occupation: Creative who found Tech
-# company: Stanford University
+occupation: Creative Who Found Tech
 email: kristinekochie@gmail.com
-twitter: https://twitter.com/kristinekochie
 linkedin: https://www.linkedin.com/in/kristinekochie/
 github: https://github.com/kkochie
 ---

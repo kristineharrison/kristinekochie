@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'kristinekochie@gmail.com',
   github: 'https://github.com/kkochie',
-  twitter: 'https://twitter.com/kristinekochie',
+  // twitter: 'https://twitter.com',
   // facebook: 'https://facebook.com',
   // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/kristinekochie',
