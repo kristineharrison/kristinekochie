@@ -11,7 +11,7 @@ github: https://github.com/kkochie
 
 Full stack developer with more than 20 years of digital and print design, tech operations, and data management experience in a variety of industries. From creating digital archives to founding and managing a retail store and ecommerce business, my experience in tech-adjacent roles enables me to be both pragmatic and forward-thinking. I aim to utilize my design and development skills with current technology to build seamless and dynamic user-friendly experiences.
 
-Check out my [CV](https://docs.google.com/document/d/1LvhyPyf21SUN7Yj-dEhTuJgeF37y2LUUS9VghLPujgM/edit?usp=sharing) or [GitHub](https://github.com/kkochie).
+Check out my [CV](/static/kkochie-tech-resume.pdf) or [GitHub](https://github.com/kkochie).
 
 ### \* _* TLDR *_ \*
 
