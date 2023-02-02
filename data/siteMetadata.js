@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Kristine Kochie',
   description: 'How one middle-aged cat lady learns to code. And loves it.',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://kristinekochie.vercel.app',
   siteRepo: 'https://github.com/kristinekochie',
   siteLogo: '/static/images/logo.png',
