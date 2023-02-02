@@ -7,9 +7,7 @@ linkedin: https://www.linkedin.com/in/kristinekochie/
 github: https://github.com/kkochie
 ---
 
-### _* Long Form *_
-
-Hi, I'm Kristine Kochie and I'm a Full Stack Developer.
+#### Hi, I'm Kristine Kochie and I'm a Full Stack Developer.
 
 Who exactly am I?
 Well, I have more than 20 years of digital and print design, tech operations, and data management experience in a variety of fields. From creating digital archives to founding and managing a retail store and e-commerce business, my history in tech-adjacent roles enables me to be both pragmatic and forward-thinking. I want to utilize my design and development skills with current tech to build seamless and dynamic user-friendly experiences.
@@ -22,7 +20,7 @@ Since I come from a variety of past experiences, I view problems differently. Iâ
 
 Check out my [CV](/static/kkochie-tech-resume.pdf) or [GitHub](https://github.com/kkochie).
 
-### _* TL;DR *_
+## TL;DR
 
 I have spent the last twenty years in a variety of creative fields, from the start-up of a photo agency, working in the print industry, and even owning my own small business.
 
