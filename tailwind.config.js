@@ -109,7 +109,7 @@ module.exports = {
             a: {
               color: theme('colors.primary.500'),
               '&:hover': {
-                color: `${theme('colors.cyan.800')} !important`,
+                color: `${theme('colors.gray.100')} !important`,
               },
               code: { color: theme('colors.primary.400') },
             },
@@ -139,7 +139,7 @@ module.exports = {
             details: {
               backgroundColor: theme('colors.gray.800'),
             },
-            hr: { borderColor: theme('colors.gray.700') },
+            hr: { borderColor: theme('colors.gray.300') },
             'ol li::marker': {
               fontWeight: '600',
               color: theme('colors.gray.400'),
