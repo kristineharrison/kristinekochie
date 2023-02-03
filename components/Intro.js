@@ -1,4 +1,4 @@
-import ReactTypingEffect from 'react-typing-effect'
+import Typewriter from 'typewriter-effect'
 
 export default function Intro() {
   return (
@@ -8,12 +8,18 @@ export default function Intro() {
         <h1 className="font-serif text-3xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
           Kristine Kochie
         </h1>
-        <p className="mt-1 text-2xl dark:text-gray-300">
-          <ReactTypingEffect
-            staticText="I am a "
-            text={['developer.', 'coder.', 'designer.', 'maker.']}
-          />
-        </p>
+        <div className="mt-1 text-2xl dark:text-gray-300">
+          <div className="flex">
+            I am a&nbsp;
+            <Typewriter
+              options={{
+                strings: ['developer.', 'coder.', 'designer.', 'maker.'],
+                autoStart: true,
+                loop: true,
+              }}
+            />
+          </div>
+        </div>
       </div>
       <div className="mt-20 flex justify-end">
         <img
