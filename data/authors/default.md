@@ -18,7 +18,7 @@ My Flatiron experience was life-changing. Not only did I find out I can learn at
 
 Since I come from a variety of past experiences, I view problems differently. I’ve had to be creative and innovative in order to make things work, quite frequently with limited resources and time. Coupled with this knowledge, I am committed to enhancing my proficiency and abilities and regularly work on improving my coding skills.
 
-Check out my [CV](/static/kkochie-tech-resume.pdf) or [GitHub](https://github.com/kkochie).
+<!-- Check out my [CV](/static/kkochie-tech-resume.pdf) or [GitHub](https://github.com/kkochie). -->
 
 ## TL;DR
 
