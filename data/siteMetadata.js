@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Changing Course & Finding Tech',
+  title: 'From Creative to Tech',
   author: 'Kristine Kochie',
   headerTitle: 'Kristine Kochie',
   description: 'How one middle-aged cat lady learns to code. And loves it.',
@@ -12,26 +12,16 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'kristinekochie@gmail.com',
   github: 'https://github.com/kkochie',
-  // twitter: 'https://twitter.com',
-  // facebook: 'https://facebook.com',
-  // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/kristinekochie',
   locale: 'en-US',
   analytics: {
-    // If you want to use an analytics provider you have to add it to the
-    // content security policy in the `next.config.js` file.
-    // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
-    umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-FEH6YS6NEJ', // e.g. UA-000000-2 or G-XXXXXXX
-    posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
+    googleAnalyticsId: 'G-FEH6YS6NEJ',
   },
-  newsletter: {
-    // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
-    // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
-  },
+  // newsletter: {
+  //   supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
+  //   Please add your .env file and modify it according to your selection
+  //   provider: 'buttondown',
+  // },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
     // content security policy in the `next.config.js` file.
