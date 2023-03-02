@@ -7,16 +7,14 @@ linkedin: https://www.linkedin.com/in/kristinekochie/
 github: https://github.com/kkochie
 ---
 
-#### Hi, I'm Kristine Kochie and I'm a Full Stack Developer.
+#### Hi, I'm Kristine Kochie and I Love to Build Things.
 
 Who exactly am I?
 Well, I have more than 20 years of digital and print design, tech operations, and data management experience in a variety of fields. From creating digital archives to founding and managing a retail store and e-commerce business, my history in tech-adjacent roles enables me to be both pragmatic and forward-thinking. I want to utilize my design and development skills with current tech to build seamless and dynamic user-friendly experiences.
 
-You might notice I don't have a “traditional” Software Engineering background. I built my first website way back in 1999, and over the past 2 decades have dabbled with various platforms and languages. But I didn’t seriously believe I could make tech a career until recently, when I decided to enroll in Flatiron School’s Software Engineering program.
+You might notice I don't have a “traditional” Software Engineering background. I built my first website way back in 1999, and over the past 2 decades have dabbled with various platforms and languages. But I didn’t seriously believe I could make tech a career until recently, when I decided to enroll in Flatiron School’s Software Engineering program. Now I am focusing full-time on creating sites and apps from start to finish / front to back.
 
-My Flatiron experience was life-changing. Not only did I find out I can learn at an accelerated pace, but that I love everything about it. Programming languages, frameworks, libraries... throw them at me!
-
-Since I come from a variety of past experiences, I view problems differently. I’ve had to be creative and innovative in order to make things work, quite frequently with limited resources and time. Coupled with this knowledge, I am committed to enhancing my proficiency and abilities and regularly work on improving my coding skills.
+Want to build something together? [Get in touch!](mailto:kristinekochie@gmail.com) Would espcially love to work on projects local to New York's Hudson Valley.
 
 ## TL;DR
 
