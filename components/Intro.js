@@ -3,8 +3,8 @@ import Typewriter from 'typewriter-effect'
 export default function Intro() {
   return (
     <>
-      <div className="mt-20 flex flex-col items-center justify-center">
-        <p className="mt-20 text-2xl dark:text-gray-300">Hello, I&apos;m</p>
+      <div className="mt-10 flex flex-col items-center justify-center">
+        <p className="mt-10 text-2xl dark:text-gray-300">Hello, I&apos;m</p>
         <h1 className="font-serif text-3xl leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
           Kristine Kochie
         </h1>
