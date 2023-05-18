@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Anthoy Parisi for District Attorney',
     description: `Responsive custom WordPress site for local political candidate.`,
     imgSrc: '/static/images/projects/previews/parisi-preview.png',
-    href: '/blog/projects/anthony-parisi',
+    href: '/blog/projects/anthony-parisi-site',
   },
   {
     title: 'Cookbook Club',
