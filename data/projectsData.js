@@ -2,8 +2,14 @@ const projectsData = [
   {
     title: 'WORKSPACE',
     description: `Productivity app to help manage image assets related to design projects.`,
-    imgSrc: '/static/images/projects/previews/workspace-preview.jpg',
+    imgSrc: '/static/images/projects/previews/workspace-preview.png',
     href: '/blog/projects/workspace',
+  },
+  {
+    title: 'Anthoy Parisi for District Attorney',
+    description: `Responsive custom WordPress site for local political candidate.`,
+    imgSrc: '/static/images/projects/previews/parisi-preview.png',
+    href: '/blog/projects/anthony-parisi',
   },
   {
     title: 'Cookbook Club',
