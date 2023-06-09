@@ -1,4 +1,5 @@
 import Typewriter from 'typewriter-effect'
+import Image from 'next/image'
 
 export default function Intro() {
   return (
@@ -22,8 +23,11 @@ export default function Intro() {
         </div>
       </div>
       <div className="mt-20 flex justify-end">
-        <img
+        <Image
           src="/static/images/old-computer-amber-flipped.png"
+          alt="Computer illustration"
+          width={400}
+          height={353}
           className="w-200 h-177 object-scale-down"
         />
       </div>
