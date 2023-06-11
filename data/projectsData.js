@@ -12,6 +12,12 @@ const projectsData = [
     href: '/blog/projects/anthony-parisi-site',
   },
   {
+    title: 'Kenya Gadsden for Dutchess County Clerk',
+    description: `Responsive custom Wix site for local political candidate.`,
+    imgSrc: '/static/images/projects/previews/gadsden-preview.png',
+    href: '/blog/projects/kenya-gadsden-site',
+  },
+  {
     title: 'Cookbook Club',
     description: `Site for a local group to showcase club meetings and book choices.`,
     imgSrc: '/static/images/projects/previews/cookbook-club-preview.jpg',
