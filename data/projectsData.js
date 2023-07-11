@@ -12,6 +12,12 @@ const projectsData = [
     href: '/blog/projects/anthony-parisi-site',
   },
   {
+    title: 'Robin Licari for Town of Wappinger Supervisor',
+    description: `Responsive custom WordPress site for local political candidate.`,
+    imgSrc: '/static/images/projects/previews/licari-preview.png',
+    href: '/blog/projects/robin-licari-site',
+  },
+  {
     title: 'Kenya Gadsden for Dutchess County Clerk',
     description: `Responsive custom Wix site for local political candidate.`,
     imgSrc: '/static/images/projects/previews/gadsden-preview.png',
